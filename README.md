@@ -1,4 +1,4 @@
-# University Vault
+# University_Courses
 
 This repository includes a chunk of my learnings, experiments, and programs related to the topics mentioned below, which I have accumulated over a long journey. 
 Feel free to use anything that you might find helpful. Take care. 
