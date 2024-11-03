@@ -11,3 +11,4 @@ variables - contrainers to store data
 assignment operator (=) right to left
 comments - notes for humans, will be ignored by the computer
 psudocode - not a formal language - outline your programming 
+string - sequence of text
