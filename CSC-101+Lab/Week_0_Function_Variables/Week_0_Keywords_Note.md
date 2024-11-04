@@ -18,3 +18,8 @@ concatenation
 str - string 
 documentations
 *objects 
+positional parameters 
+named parameter
+escape characters
+sep = " "
+end = "\n"
