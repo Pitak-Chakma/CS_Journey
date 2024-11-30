@@ -23,6 +23,7 @@ Some Important Commands
 	- ls folderName/ = to see what's inside these folders
 
 - open fileName = opens that folder
+
 - mkdir folderName = will create a new child directory inside the current directory 
 
 - touch fileName.fileExtension = make a file in the current directory 
@@ -32,7 +33,7 @@ Some Important Commands
 
 - mv fileName.Extension pathOfDestination = move that file 
 
-- move pathOfTarget pathOfDestination = move the file to destination 
+- move pathOfTarget pathOfDestination/NewName.Ex = move the file to destination and remane it
 
 - rmdir folderName = deletes an empty folder
 
