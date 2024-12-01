@@ -1,4 +1,4 @@
-Link to Tutorial :: https://www.youtube.com/watch?v=HD13eq_Pmp8
+I am learning HTML in a rapid speed to contribute to my DBMS team project. 
 
-Huge thanks for Bro Code for providing free, quality resources. 
+Wish me luck !! 
 
