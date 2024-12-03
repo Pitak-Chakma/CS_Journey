@@ -1,6 +1,7 @@
 # must start with a letter or underscore
 # rest of the name must consist of letters, numbers or underscore
 # names are case sensitive
+# dont use reserved words 
 
 
 # Some Common Naming Convenstions (Not Mandatory to Follow but is good practice)

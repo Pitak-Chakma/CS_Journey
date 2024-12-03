@@ -7,3 +7,7 @@ mother_name = "X"
 father_name = "Y"
 child_name = None  # can be entered later
 
+# shortcut 
+name = "pitak"
+name += " chakma"
+print(name)
