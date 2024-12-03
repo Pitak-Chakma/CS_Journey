@@ -1,7 +1,7 @@
 # CSC-101 + Lab (Introduction to Programming)
 
 ## Main Resoruces I will Follow 
-- [CS50P](https://cs50.harvard.edu/python/2022/) 
+
 
 
 ## My 2 Cents
