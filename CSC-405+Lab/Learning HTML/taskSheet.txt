@@ -1,0 +1,17 @@
+make html file 
+make boilerplate code 
+understanding tag 
+understanding live server 
+understanding h1 to h6
+understanding p
+understanding br 
+understanding img 
+understanding a 
+    - hyperlink 
+understanding div
+    - rectange whose width is full, height is 0
+    - div's height is equals to its children's height summation
+understanding id
+    - <p id ="chache"> </p>
+understanding class
+    - 
