@@ -17,3 +17,5 @@ if animal:
     print("True")
 else:
     print("False")
+
+# Natural Falsy = empty objects, empty strings, empty lists,None, 0 
