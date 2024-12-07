@@ -21,26 +21,34 @@ while (computer_score < 2) and (player_score < 2):
     # generate player choice
     player = input("Rock Paper or Scissors?: ").lower()
 
+    # validate player choice
+    if player != "rock" and player != "paper" and player != "scissors":
+        print("Invalid input")
+        
+
     # determine winner 
-    if player == computer:
+    elif player == computer:
         print("Draw")
 
     elif player == "rock" and computer == "scissors":
         print("Player wins")
         player_score += 1
+
     elif player == "scissors" and computer == "paper":
         print("Player wins")
         player_score += 1
+
     elif player == "paper" and computer == "rock":
         print("Player wins")
         player_score += 1
+        
     else:
         print("Computer wins")
         computer_score += 1
 
-    print(f"Computer: {computer_score} Player: {player_score}")
+print(f"Computer: {computer_score} Player: {player_score}")
 
 if computer_score == 2:
-    print("Computer wins@")
+    print("Computer wins :< ")
 elif player_score == 2:
-    print("Player wins@")
+    print("Player wins :> ")
